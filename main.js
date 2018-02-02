@@ -1,1 +1,1 @@
-superheros = ["Martian Manhunter", "Donna Troy", "Catwoman", "Flash"];
+superheros = ["Superman", "Wonder Woman", "Batman", "Flash"];
